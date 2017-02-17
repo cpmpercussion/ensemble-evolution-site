@@ -1,6 +1,10 @@
-# Sounds from the Treetops
+---
+layout: page
+title: Sounds from the Treetops
+permalink: /treetops/
+---
 
-** BREAKING NEWS! ** Sounds from the Treetops has just gone LIVE! Check it out as a digital release on Bandcamp, iTunes, CDbaby, and Spotify! 
+![Sounds from the Treetops](/images/Projects/TreetopsAlbumCover.jpg)
 
 ## The Project
 
@@ -12,11 +16,11 @@ In June 2012, the suite of six works was premiered at the Treehotel with each pi
 
 Snippets of each work with video footage of the inspirational treehouses can be found in this playlist: (Youtube [link](http://www.youtube.com/playlist?list=PLnRoOVbpGXfZMxeaCYz39HtzAACNW7FlM))
 
-Embed: [http://www.youtube.com/watch?v=aFsPcHZbiV8&feature=share&list=PLF7859E59556C4EA9](http://www.youtube.com/watch?v=aFsPcHZbiV8&feature=share&list=PLF7859E59556C4EA9)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aFsPcHZbiV8?list=PLF7859E59556C4EA9" frameborder="0" allowfullscreen></iframe>
 
 ## The Album
 
-<iframe width="300" height="280" frameborder="0" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=3613505917/size=grande2/bgcol=FFFFFF/linkcol=4285BB/">&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href="http://ensembleevolution.bandcamp.com/album/sounds-from-the-treetops" _mce_href="http://ensembleevolution.bandcamp.com/album/sounds-from-the-treetops"&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Sounds from the Treetops by Ensemble Evolution&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;</iframe>
+<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3613505917/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="http://ensembleevolution.bandcamp.com/album/sounds-from-the-treetops">Sounds from the Treetops by Ensemble Evolution</a></iframe>
 
 “Sounds of the Treetops” was recorded in June 2012 at Studio Acousticum, Piteå, and released in February 2013. Press play below to start listening and enjoy our newest project! If you like what you hear, please consider purchasing a digital copy and help support our projects!
 
@@ -28,4 +32,5 @@ At the end of their residency in Sweden, Ensemble Evolution took to the road in 
 
 The tour featured a wide variety of music composed by Ensemble Evolution while in Sweden including our Solstormen (Solar Storm) suite as well as a number of works by other composers and collaborators. Videographer August Sandström beautifully recorded the atmosphere of the tour and the amazing environment of Northern Sweden in summer with this video: 
 
-Embed: [http://youtu.be/7HNh8aMGJVc](http://youtu.be/7HNh8aMGJVc)
+<!-- Embed: [http://youtu.be/7HNh8aMGJVc](http://youtu.be/7HNh8aMGJVc) -->
+{% youtube 7HNh8aMGJVc %}

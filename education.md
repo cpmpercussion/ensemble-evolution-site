@@ -4,7 +4,21 @@ title: Education
 permalink: /education/
 ---
 
-# Education
+{% slider %}
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_002.jpg)
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_003.jpg)
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_004.jpg)
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_005.jpg)
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_006.jpg)
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_007.jpg)
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_008.jpg)
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_009.jpg)
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_010.jpg)
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_011.jpg)
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_012.jpg)
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_013.jpg)
+![Evolution workshops around the world.](/images/Education/Ensemble_Evolution_Teaching_014.jpg)
+{% endslider %}
 
 Ensemble Evolution have presented workshops and seminars to percussion and music students around the world. We specialise in working with students on improvisation, composition and present seminars on commissioning projects, entrepreneurship and our unique compositions and performance projects. Our three members have a variety of areas of specialisation and can present individual seminars and workshops on their particular focus. Our workshops are often culminate in a performance where we present one of our concert programmes and then, alongside the students, perform works by one of our members or created by the group over the course of the workshop.
 

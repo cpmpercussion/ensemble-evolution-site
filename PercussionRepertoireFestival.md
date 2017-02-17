@@ -1,4 +1,10 @@
-# Percussion Repertoire Festival
+---
+layout: page
+title: Piteå Percussion Repertoire Festival
+permalink: /PPRF/
+---
+
+# Piteå Percussion Repertoire Festival
 
 > Ensemble Evolution’s Piteå Percussion Repertoire Festival was a breath of artistic fresh air.  Stimulating, fun, diverse, and completely engaging.  This was a wonderful experience for me, both as a presenter and attendant.  I can only hope they host this festival again. - Casey Cangelosi 
 
@@ -17,7 +23,8 @@ Videos of the festival sessions can be found at  [http://vimeo.com/channels/pite
 
 > The Piteå Percussion Festival was perfectly organized and placed at one of the most exiting institutions in the Scandinavian countries. The atmosphere was truly intimate and it was the perfect place to meet with other percussionists from all over the world! -   EditionSVITZER 
 
-Embed: [http://vimeo.com/22148925](http://vimeo.com/22148925)
+<!-- Embed: [http://vimeo.com/22148925](http://vimeo.com/22148925) -->
+{% vimeo 22148925 %}
 
 # Information about the festival
 
