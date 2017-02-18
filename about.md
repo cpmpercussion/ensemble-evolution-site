@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+headerimg: ee-youarehere.jpg
 images:
   - image_path: /images/Education/Ensemble_Evolution_Teaching_002.jpg
     title: Evolution workshops around the world.
@@ -46,6 +47,10 @@ In 2011 the group created and directed the inaugural Piteå Percussion Repertoir
 Ensemble Evolution toured to Australia in 2012 with their original Solstormen program, hosted a series of visiting artists in Piteå and was an ensemble in residence at the Nordplus IP Music Laboratory THE PROCESS in Vilnius, Lithuania. Their residency in Sweden culminated with their NattMusik Tour of Northern Sweden and their performance of six new works commissioned by the boutique Treehotel at Harads.
 
 **Ensemble Evolution**'s first album, "Sounds from the Treetops" was released in February 2013. Following this release, the ensemble was invited to perform the set at the Percussive Arts Society International Convention in Indianapolis, Indiana. In addition to this appearance, the ensemble completed a three-day residency at the Arnold Arboretum of Harvard University in Boston, Massachusetts, exploring the connections between sound and nature.
+
+Ensemble Evolution proudly endorses Grover Pro Percussion products and thank the Grover team for their support of our projects!
+
+![Ensemble Evolution endorses Grover Pro Percussion products]({{ site.baseurl }}/assets/images/Grover.png)
 
 ## Personnel
 

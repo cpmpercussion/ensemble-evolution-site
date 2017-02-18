@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Education
+headerimg: ee-education.jpg
 permalink: /education/
 ---
 
