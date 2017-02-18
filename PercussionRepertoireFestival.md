@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Piteå Percussion Repertoire Festival
+headerimg: ee-pprf.jpg
 permalink: /PPRF/
 ---
 
@@ -8,8 +9,8 @@ permalink: /PPRF/
 
 > Ensemble Evolution’s Piteå Percussion Repertoire Festival was a breath of artistic fresh air.  Stimulating, fun, diverse, and completely engaging.  This was a wonderful experience for me, both as a presenter and attendant.  I can only hope they host this festival again. - Casey Cangelosi 
 
-![Participants and featured performers in the Piteå Percussion Repertoire Festival.](/images/PPRF/PRF-group-photo.jpg)
-
+<!-- ![Participants and featured performers in the Piteå Percussion Repertoire Festival.](/images/PPRF/PRF-group-photo.jpg)
+ -->
 
 On March 16-19, 2011, Maria Finkelmeier, Jacob Remington, and Charles Martin (of Ensemble Evolution, the ensemble in residence at the Piteå Institution for Music and Media) directed and performed in the inaugural Piteå Percussion Repertoire Festival.
 
