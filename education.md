@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-headerimg: ee-education.jpg
+headerimg: ee-education-wide.jpg
 permalink: /education/
 slider_active: true
 ---

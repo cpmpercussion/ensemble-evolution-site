@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sounds from the Treetops
-headerimg: ee-treetops.jpg
+headerimg: ee-treetops-wide.jpg
 permalink: /treetops/
 ---
 

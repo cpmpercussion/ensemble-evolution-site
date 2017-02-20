@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-headerimg: ee-youarehere.jpg
+headerimg: ee-youarehere-wide.jpg
 ---
 
 <!-- # Ensemble Evolution -->
@@ -51,7 +51,6 @@ Ensemble Evolution proudly endorses Grover Pro Percussion products and thank the
 
 
 **Jacob Remington** is a percussionist and composer from Fort Worth, Texas. A semi finalist in the 2009 Paris International Marimba Competition, he is a regular soloist and has also performed in professional ensembles such as the London Contemporary Orchestra and London Sinfonietta. Jake is developing the percussion repertoire through his composition and collaboration with other artists and his music is published by C. Alan publications.
-[www.jacobremington.com](http://www.jacobremington.com)
 
 <br /><br /><br /><br /><br /><br />
 
