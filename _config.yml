@@ -18,9 +18,16 @@ email: ensevolution@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Ensemble Evolution is an international ensemble exploring the future of percussion through composition, education and technology. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ensemble-evoluation.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cpmpercussion
 github_username:  cpmpercussion
+facebook:
+  publisher: https://www.facebook.com/EnsembleEvolution/
+  admins: 633476018
+logo: /assets/images/ee-youarehere-wide.jpg
+
+
+
 slider_array: []
 
 # Build settings
@@ -28,6 +35,8 @@ markdown: kramdown
 #theme: minima
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
