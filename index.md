@@ -3,13 +3,15 @@ title: Ensemble Evolution
 layout: default
 ---
 
-<section class="box special">
-	<header class="major">
-		<h2>Ensemble Evolution</h2>
-		<p>An international ensemble exploring the future of percussion through composition, education and technology.</p>
-	</header>
-	<span class="image featured"><img src="{{ site.baseurl }}/assets/images/ee-stage.jpg" alt="" /></span>
-	
+<section class="box special" style="background: #000;">
+	<div style="position: relative; height: 360px; text-align: center; min-width: 575px;">
+	<div style="display: block; position: absolute; top: 0; left: 0; text-align: center;">
+		<img width="100%" src="{{ site.baseurl }}/assets/images/ee-stage.jpg" alt="Ensemble Evolution" />
+	</div>
+	<div style="display: block; position: absolute; top: 0; left: 0; text-align: center; z-index: 10; width: 100%;">
+		<img style="display: block; margin: 0 auto; width: auto; height: 360px; border: 0;" src="{{ site.baseurl }}/assets/images/ensemble_evolution_dark_logo_tall.png" alt="An international ensemble exploring the future of percussion through composition, education and technology." />
+	</div>
+	</div>
 </section>
 
 <section class="box special features">
@@ -21,14 +23,14 @@ layout: default
 			<p>Taking elements from jazz and contemporary classical music, the group creates musical experiments incorporating improvisation, new media and unexpected collaborations into their original concept of a 21st century percussion ensemble.</p>
 		</section>
 		<section>
-			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/ee-treetops.jpg" alt="" /></span>
+			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/ee-treetops-wide.jpg" alt="" /></span>
 			<h3>Treetops</h3>
 			<p>A suite of six works dedicated to the boutique tree houses of Treehotel in Harads, Northern Sweden. The suite was performed on site in June 2012 and an album released in February 2013.</p>
 		</section>
 	</div>
 	<div class="features-row">
 		<section>
-			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/ee-duo-header.jpg" alt="" /></span>
+			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/ee-duo-header-wide.jpg" alt="" /></span>
 			<h3>Evolution Duo</h3>
 			<p>Evolution Percussion Duo, consisting of Maria Finkelmeier and Jake Remington, commissioned six new works by composers under the age of 30 in 2011. A recording of their project, supported by a successful Kickstarter campaign was released in May 2012.</p>
 		</section>
