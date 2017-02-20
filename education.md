@@ -3,6 +3,7 @@ layout: page
 title: Education
 headerimg: ee-education.jpg
 permalink: /education/
+slider_active: true
 ---
 
 {% slider %}
