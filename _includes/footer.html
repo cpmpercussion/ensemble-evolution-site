@@ -13,5 +13,18 @@
 					<li>&copy; Ensemble Evolution. All rights reserved.</li>
 				</ul>
 			</footer>
+	<!-- Slider -->
+	<script src="{{ site.baseurl }}/assets/js/ideal-image-slider.js"></script>
+	<script src="{{ site.baseurl }}/assets/js/iis-captions.js"></script>
+	<!-- Sliders on pages -->
+	{% for script in page.slider_scripts %}
+	  {{ script }}
+	{% endfor %}
+	<!-- Sliders on indexes -->
+	{% for post in paginator.posts %}
+  		{% for script in post.slider_scripts %}
+    		{{ script }}
+  		{% endfor %}
+	{% endfor %}
 	</body>
 </html>
