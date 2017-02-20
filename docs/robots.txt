@@ -1,1 +1,1 @@
-Sitemap: http://ensemble-evoluation.com/https://cpmpercussion.github.io/ensemble-evolution-site/sitemap.xml
+Sitemap: http://ensemble-evoluation.com/sitemap.xml
