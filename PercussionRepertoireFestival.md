@@ -5,7 +5,7 @@ headerimg: ee-pprf.jpg
 permalink: /PPRF/
 ---
 
-# Piteå Percussion Repertoire Festival
+<!-- # Piteå Percussion Repertoire Festival -->
 
 > Ensemble Evolution’s Piteå Percussion Repertoire Festival was a breath of artistic fresh air.  Stimulating, fun, diverse, and completely engaging.  This was a wonderful experience for me, both as a presenter and attendant.  I can only hope they host this festival again. - Casey Cangelosi 
 
@@ -20,16 +20,16 @@ Participants included: Morris Palter and Ensemble 64.8, Casey Cangelosi, Daniel 
 
 Videos of the festival sessions can be found at  [http://vimeo.com/channels/piteapercussionrepfest](http://vimeo.com/channels/piteapercussionrepfest)
 
-
-
 > The Piteå Percussion Festival was perfectly organized and placed at one of the most exiting institutions in the Scandinavian countries. The atmosphere was truly intimate and it was the perfect place to meet with other percussionists from all over the world! -   EditionSVITZER 
 
 <!-- Embed: [http://vimeo.com/22148925](http://vimeo.com/22148925) -->
 {% vimeo 22148925 %}
 
-# Information about the festival
+## Information about the festival
 
-![Poster from the Piteå Percussion Repertoire Festival](/images/PPRF/PRF-infoPoster.jpg)
+<!-- ![Poster from the Piteå Percussion Repertoire Festival](/images/PPRF/PRF-infoPoster.jpg) -->
+
+<img width="33%" height="33%" style="display: block; margin: 0 auto;" src="{{ site.baseurl }}/images/PPRF/PRF-infoPoster.jpg" alt="Poster from the Piteå Percussion Repertoire Festival">
 
 The Percussion Repertoire Festival was conceived by world-renowned percussionist Anders Åstrand, and was directed by Ensemble Evolution.
 
@@ -39,29 +39,22 @@ The festival featured workshops, performances and educational sessions throughou
 
 The list of featured performers and participants included:
 
-Anders Åstrand from Stockholm, Sweden
-Morris Palter and Ensemble 64.8 from Fairbanks, Alaska, USA
-Daniel Berg from Götenberg, Sweden 
-Jacob Remington from Texas, USA 
-Harri Lehtinen from Tampere, Finland 
-Charles Martin from Canberra, Australia
-Toni Hietala from Pori, Finland 
-Johan Svitzer from Odense, Denmark 
-Maria Finkelmeier from Ohio, USA 
-Daniel Saur from Piteå, Sweden 
-Chi-Hsia Lai from Taichung, Taiwan
-Casey Cangelosi from West Virginia, USA
+- Anders Åstrand from Stockholm, Sweden
+- Morris Palter and Ensemble 64.8 from Fairbanks, Alaska, USA
+- Daniel Berg from Götenberg, Sweden 
+- Jacob Remington from Texas, USA 
+- Harri Lehtinen from Tampere, Finland 
+- Charles Martin from Canberra, Australia
+- Toni Hietala from Pori, Finland 
+- Johan Svitzer from Odense, Denmark 
+- Maria Finkelmeier from Ohio, USA 
+- Daniel Saur from Piteå, Sweden 
+- Chi-Hsia Lai from Taichung, Taiwan
+- Casey Cangelosi from West Virginia, USA
 
-# Evening Concert Schedule
+## Evening Concert Schedule
 
-Wednesday, March 16: The ArcticConnection
-Ensemble Evolution and Ensemble 64.8 (from Fairbanks, Alaska) welcome guests to Piteå to kickoff an exciting festival of percussive sounds! 
-
-Thursday, March 17: Sweden’s “Slagverk” Showcase
-Anders Åstrand, Rolf Landberg and Daniel Saur (Global Percussion Network) meet Daniel Berg and Fredrik Duvling (Rhythm Art Duo) for an evening showcase’s Swedish most exciting percussion stars! 
-
-Friday, March 18: International Soloists take the Stage
-Witness how captivating one musician can be as diverse percussion music is performed by personalities from around the world
-
-Saturday, March 19: Smorgasbord of International Percussionists
-The closing concert of the Piteå Percussion Repertoire Festival will feature the festival participants after 4 days of enlightenment and inspiration.  
+- Wednesday, March 16: The ArcticConnection: Ensemble Evolution and Ensemble 64.8 (from Fairbanks, Alaska) welcome guests to Piteå to kickoff an exciting festival of percussive sounds! 
+- Thursday, March 17: Sweden’s “Slagverk” Showcase: Anders Åstrand, Rolf Landberg and Daniel Saur (Global Percussion Network) meet Daniel Berg and Fredrik Duvling (Rhythm Art Duo) for an evening showcase’s Swedish most exciting percussion stars! 
+- Friday, March 18: International Soloists take the Stage: Witness how captivating one musician can be as diverse percussion music is performed by personalities from around the world
+- Saturday, March 19: Smorgasbord of International Percussionists: The closing concert of the Piteå Percussion Repertoire Festival will feature the festival participants after 4 days of enlightenment and inspiration.

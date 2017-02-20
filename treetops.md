@@ -5,7 +5,9 @@ headerimg: ee-treetops.jpg
 permalink: /treetops/
 ---
 
-![Sounds from the Treetops](/images/Projects/TreetopsAlbumCover.jpg)
+<!-- ![Sounds from the Treetops](/images/Projects/TreetopsAlbumCover.jpg) -->
+<img width="33%" height="33%" style="float: right;" src="{{ site.baseurl }}/images/Projects/TreetopsAlbumCover.jpg">
+
 
 ## The Project
 
@@ -17,7 +19,7 @@ In June 2012, the suite of six works was premiered at the Treehotel with each pi
 
 Snippets of each work with video footage of the inspirational treehouses can be found in this playlist: (Youtube [link](http://www.youtube.com/playlist?list=PLnRoOVbpGXfZMxeaCYz39HtzAACNW7FlM))
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aFsPcHZbiV8?list=PLF7859E59556C4EA9" frameborder="0" allowfullscreen></iframe>
+<iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/aFsPcHZbiV8?list=PLF7859E59556C4EA9" frameborder="0" allowfullscreen></iframe>
 
 ## The Album
 
@@ -34,4 +36,6 @@ At the end of their residency in Sweden, Ensemble Evolution took to the road in 
 The tour featured a wide variety of music composed by Ensemble Evolution while in Sweden including our Solstormen (Solar Storm) suite as well as a number of works by other composers and collaborators. Videographer August Sandström beautifully recorded the atmosphere of the tour and the amazing environment of Northern Sweden in summer with this video: 
 
 <!-- Embed: [http://youtu.be/7HNh8aMGJVc](http://youtu.be/7HNh8aMGJVc) -->
-{% youtube 7HNh8aMGJVc %}
+<!-- {% youtube 7HNh8aMGJVc %} -->
+
+<iframe style="display: block; margin: 0 auto;" width="560" height="420" src="https://www.youtube.com/embed/7HNh8aMGJVc" frameborder="0" allowfullscreen></iframe>

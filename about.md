@@ -3,35 +3,6 @@ layout: page
 title: About
 permalink: /about/
 headerimg: ee-youarehere.jpg
-images:
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_002.jpg
-    title: Evolution workshops around the world.
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_003.jpg
-    title: Evolution workshops around the world.
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_004.jpg
-    title: Evolution workshops around the world.
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_005.jpg
-    title: Evolution workshops around the world.
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_006.jpg
-    title: Evolution workshops around the world.
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_007.jpg
-    title: Evolution workshops around the world.
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_008.jpg
-    title: Evolution workshops around the world.
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_009.jpg
-    title: Evolution workshops around the world.
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_010.jpg
-    title: Evolution workshops around the world.
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_011.jpg
-    title: Evolution workshops around the world.
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_012.jpg
-    title: Evolution workshops around the world.
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_013.jpg
-    title: Evolution workshops around the world.
-  - image_path: /images/Education/Ensemble_Evolution_Teaching_014.jpg
-    title: Evolution workshops around the world.
-
-
 ---
 
 <!-- # Ensemble Evolution -->
@@ -50,29 +21,50 @@ Ensemble Evolution toured to Australia in 2012 with their original Solstormen pr
 
 Ensemble Evolution proudly endorses Grover Pro Percussion products and thank the Grover team for their support of our projects!
 
-![Ensemble Evolution endorses Grover Pro Percussion products]({{ site.baseurl }}/assets/images/Grover.png)
+<!-- ![Ensemble Evolution endorses Grover Pro Percussion products]({{ site.baseurl }}/assets/images/Grover.png) -->
+<img style="display: block; margin: 0 auto;" src="{{ site.baseurl }}/assets/images/Grover.png" alt="Ensemble Evolution endorses Grover Pro Percussion products.">
 
 ## Personnel
 
-![Maria Finkelmeier](/images/About/gallery-maria/EE-photoshoot-may2011_2_1.jpg)
+<!-- ![Maria Finkelmeier](/images/About/gallery-maria/EE-photoshoot-may2011_2_1.jpg) -->
+<img width="33%" height="33%" style="float: right;" src="{{ site.baseurl }}/images/About/gallery-maria/EE-photoshoot-may2011_2_1.jpg">
+
 
 **Maria Finkelmeier** is a passionate performer, educator, composer and active arts entrepreneur. She currently serves as Program Manager in the Entrepreneurial Musicianship Department at the New England Conservatory, helping to equip young artists with the skills they need to build fulfilling musical lives. Prior to joining the NEC community, she spent three years in Northern Sweden at the Piteå Institution for Music and Media as an artist in residence and international coordinator.
 [mariafinkelmeier.com](http://mariafinkelmeier.com)
 
-![Charles Martin](/images/About/gallery-charles/EE-photoshoot-may2011_4.jpg)
+<br /><br /><br /><br /><br /><br />
+
+
+<!-- ![Charles Martin](/images/About/gallery-charles/EE-photoshoot-may2011_4.jpg) -->
+<img width="33%" height="33%" style="float: right;" src="{{ site.baseurl }}/images/About/gallery-charles/EE-photoshoot-may2011_4.jpg">
+
 
 **Charles Martin** is a specialist in percussion and computer music from Canberra, Australia. Having studied mathematics, computer science and percussion performance he is active as a new media performance artist with works featured in the Brisbane Festival 2010, Electrofringe 2011, New Interfaces for Music Expression conference and Australasian Computer Music Conference.
 [charlesmartin.com.au](http://charlesmartin.com.au)
 
-![Jacob Remington](/images/About/gallery-jake/EE-photoshoot-may2011_2_2.jpg)
+<br /><br /><br /><br /><br /><br />
+
+
+<!-- ![Jacob Remington](/images/About/gallery-jake/EE-photoshoot-may2011_2_2.jpg) -->
+<img width="33%" height="33%" style="float: right;" src="{{ site.baseurl }}/images/About/gallery-jake/EE-photoshoot-may2011_2_2.jpg">
+
 
 **Jacob Remington** is a percussionist and composer from Fort Worth, Texas. A semi finalist in the 2009 Paris International Marimba Competition, he is a regular soloist and has also performed in professional ensembles such as the London Contemporary Orchestra and London Sinfonietta. Jake is developing the percussion repertoire through his composition and collaboration with other artists and his music is published by C. Alan publications.
 [www.jacobremington.com](http://www.jacobremington.com)
 
+<br /><br /><br /><br /><br /><br />
+
+
 ## Guest Artists
 
-![Anna K. Larson](/images/About/EE-photoshoot-may2011_3.jpg)
+<!-- ![Anna K. Larson](/images/About/EE-photoshoot-may2011_3.jpg) -->
+<img width="33%" height="33%" style="float: right;" src="{{ site.baseurl }}/images/About/EE-photoshoot-may2011_3.jpg">
+
 
 **Anna K. Larson** is a classically trained singer from Frändefors, Sweden. Anna  regularly performs with various mixed ensembles. She is passionate about exploring new ways to interpret words and music, presenting a fresh perspective on existing repertoire as well as newly composed works. Doing so, she hopes to develop the repertoire for classical singing with non-conventional instruments.
+
+<br /><br /><br /><br /><br /><br />
+
 
 **Angela Shankar** is an active freelance clarinetist, music educator, and Zumba® instructor based in New York City. A native of Cleveland, Ohio, Angela studied at Carnegie Mellon University and the Eastman School of Music, where she received the Performer’s Certificate.  A dedicated educator, Angela has extensive experience teaching clarinet, theory and general music. She works with the Harmony Program in Brooklyn and the preparatory division at Mannes College.  Angela premiered “Concertino for Clarinet and Orchestra,” dedicated to her by composer Seth Bedford, with the Chelsea Symphony in 2012. She has performed at La Fenice in Venice, the United Nations, Avery Fisher Hall, Carnegie Hall, and at the Library of Congress on NPR’s “From the Top”. [www.angelashankar.com](http://www.angelashankar.com)
