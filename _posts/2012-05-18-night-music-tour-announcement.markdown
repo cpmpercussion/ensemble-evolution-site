@@ -9,29 +9,13 @@ title: Night Music Tour Announcement!
 wordpress_id: 206
 ---
 
-
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2012/05/b7cb0-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2012/05/53b8c-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2012/05/02475-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2012/05/103aa-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2012/05/817d6-img.jpg)
-  
-
-
+{% slider %}
+![](https://ensembleevolution.files.wordpress.com/2012/05/b7cb0-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2012/05/53b8c-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2012/05/02475-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2012/05/103aa-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2012/05/817d6-img.jpg)
+{% endslider %}
 
 We are pleased to announce our June tour, "NATTMUSIK, en ljud- och naturresa under midnattsolen" is confirmed!! (...for all of you English speakers out there, it's called "Night Music, a sound and nature journey under the midnight sun") Thanks to all of our sponsors for helping us make this happen! **Let's spread the word!!!**
 

@@ -9,4 +9,6 @@ title: Piteå Musikhögskolan Julkonsert
 wordpress_id: 157
 ---
 
-[caption id="" align="alignnone" width="1280.0"]![We were in a Christmas concert!! For a few weeks every year, sleigh bells are the most important percussion instrument.](https://ensembleevolution.files.wordpress.com/2010/12/d1fae-img.jpg) We were in a Christmas concert!! For a few weeks every year, sleigh bells are the most important percussion instrument.[/caption]
+![We were in a Christmas concert!! For a few weeks every year, sleigh bells are the most important percussion instrument.](https://ensembleevolution.files.wordpress.com/2010/12/d1fae-img.jpg) 
+
+We were in a Christmas concert!! For a few weeks every year, sleigh bells are the most important percussion instrument.

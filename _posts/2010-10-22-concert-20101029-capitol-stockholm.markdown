@@ -9,4 +9,6 @@ title: Concert - 2010.10.29 - Capitol, Stockholm
 wordpress_id: 186
 ---
 
-[caption id="" align="alignnone" width="842.0"]![Our second concert! Friday! Stockholm!](https://ensembleevolution.files.wordpress.com/2010/10/81a9e-img.jpg) Our second concert! Friday! Stockholm![/caption]
+![Our second concert! Friday! Stockholm!](https://ensembleevolution.files.wordpress.com/2010/10/81a9e-img.jpg) 
+
+Our second concert! Friday! Stockholm!

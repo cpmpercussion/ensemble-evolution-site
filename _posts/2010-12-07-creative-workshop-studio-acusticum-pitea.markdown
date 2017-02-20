@@ -9,22 +9,13 @@ title: Creative workshop! Studio Acusticum - Piteå
 wordpress_id: 165
 ---
 
+{% slider %}
+![](https://ensembleevolution.files.wordpress.com/2010/12/08931-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2010/12/b5b9e-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2010/12/40d30-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2010/12/82fb7-img.jpg)
+{% endslider %}
 
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2010/12/08931-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2010/12/b5b9e-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2010/12/40d30-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2010/12/82fb7-img.jpg)
-  
+Had a fun creative workshop today in Studio Acusticum - great times. 
 
 

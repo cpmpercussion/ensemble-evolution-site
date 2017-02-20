@@ -9,9 +9,6 @@ title: Percussion Workshop at Oscarshamns Folkhögskola
 wordpress_id: 33
 ---
 
-[youtube https://www.youtube.com/watch?v=jNxK3Ts-T2I]
-
-
-
+{% youtube jNxK3Ts-T2I %}
 
 Here's a video of us working with percussion students from Oscarshamn and Vastervik!

@@ -9,4 +9,6 @@ title: composing day
 wordpress_id: 159
 ---
 
-[caption id="" align="alignnone" width="1280.0"]![Played through some of Jake's ideas today.](https://ensembleevolution.files.wordpress.com/2010/12/fd542-img.jpg) Played through some of Jake's ideas today.[/caption]
+![Played through some of Jake's ideas today.](https://ensembleevolution.files.wordpress.com/2010/12/fd542-img.jpg) 
+
+Played through some of Jake's ideas today.

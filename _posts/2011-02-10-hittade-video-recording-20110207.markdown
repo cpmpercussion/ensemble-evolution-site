@@ -9,20 +9,10 @@ title: Hittade Video Recording (2011/02/07)
 wordpress_id: 136
 ---
 
-
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2011/02/12414-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2011/02/55166-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2011/02/bf0ad-img.jpg)
-  
-
-
+{% slider %}
+![](https://ensembleevolution.files.wordpress.com/2011/02/12414-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2011/02/55166-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2011/02/bf0ad-img.jpg)
+{% endslider %}
 
 While we had Christina Hopgood visiting from Australia, we wanted to record Maria's recently published quartet, Hittade. The video will be ready soon, but the audio is done now!

@@ -13,13 +13,8 @@ wordpress_id: 218
 
 Next month, we'll be at the Arnold Arboretum for three days as artists-in-residence! Along with Angela Shankar on clarinet, we'll be working with Matt Sharrock and Jeremy Barrnet from the[ Boston Percussion Group](http://bostonpercussiongroup.com/), to create a new piece that will work with our "Sounds from the Treetops" set. Not to mention, the amazing photographer, Adam Detour, will provide the visual inspiration by producing a series of photos from the landscape! The specifics are outlined below!
 
-
+![](https://ensembleevolution.files.wordpress.com/2013/10/67177-ee26aalogos.jpg)
   
-      ![](https://ensembleevolution.files.wordpress.com/2013/10/67177-ee26aalogos.jpg)
-  
-
-
-
 **FOR IMMEDIATE RELEASE**   
 October 10, 2013 
 

@@ -11,6 +11,4 @@ wordpress_id: 37
 
 ...one of our favorite tree houses in Harads. Check out the second of six videos highlighting our performance of original compositions at the Treehotel.
 
-
- 
-   [youtube https://www.youtube.com/watch?v=K7amA58KwTU]
+{% youtube K7amA58KwTU %}

@@ -9,4 +9,6 @@ title: Concert - 2010.10.27 - Black Box Theatre, Acusticum, Piteå
 wordpress_id: 188
 ---
 
-[caption id="" align="alignnone" width="842.0"]![We have our first concert together soon!](https://ensembleevolution.files.wordpress.com/2010/10/8d9c9-img.jpg) We have our first concert together soon![/caption]
+![We have our first concert together soon!](https://ensembleevolution.files.wordpress.com/2010/10/8d9c9-img.jpg) 
+
+We have our first concert together soon!

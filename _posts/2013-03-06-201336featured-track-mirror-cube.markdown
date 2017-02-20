@@ -10,18 +10,11 @@ wordpress_id: 194
 ---
 
 ![](https://ensembleevolution.files.wordpress.com/2013/03/96867-mirrorcube-featureimage.jpg)
-  
-
-
 
 The week's track is "Mirror Cube", and it's one of my (Charles') compositions! Press play and listen to it for free online! If you like it, press buy and you can have it for keepsies for just $1.
 
-
+[http://bandcamp.com/EmbeddedPlayer/v=2/track=1249360521/size=venti/bgcol=FFFFFF/linkcol=4285BB/](http://bandcamp.com/EmbeddedPlayer/v=2/track=1249360521/size=venti/bgcol=FFFFFF/linkcol=4285BB/)
  
-   [http://bandcamp.com/EmbeddedPlayer/v=2/track=1249360521/size=venti/bgcol=FFFFFF/linkcol=4285BB/](http://bandcamp.com/EmbeddedPlayer/v=2/track=1249360521/size=venti/bgcol=FFFFFF/linkcol=4285BB/)
- 
-
-
 I knew about the mirror cube even before we went to the Treehotel because it was advertised at Lulea airport, so every time we flew back and forth from different places I would see this amazing building. With this piece, I wanted to keep the instrumentation to only metallic mallet instruments, I had recorded a few demos of layered vibraphones playing rolled chords in the upper register so I decided to use two vibes and one glockenspiel to play an ostinato part and keep the pulse through the whole piece.
 
 It really reminds me how much work Maria, Jake and I did on improvising together when I hear this piece. The score had three sections with a few bars of motivating material for each player but as soon as we started rehearsing we found that we would take the music in new directions and visiting the melodies every now and then to get our bearings. After performing this piece a few times we really knew what we wanted to do and when we recorded it, it seemed like we had nailed it first try! I made everybody do another take just in case, but the first one is what we used. We wanted to add a bit more variety to the sound so Maria overdubbed tubular bells over the whole take and you can really hear them in the end result!

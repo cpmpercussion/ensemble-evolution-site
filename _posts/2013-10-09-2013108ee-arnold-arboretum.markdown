@@ -20,37 +20,12 @@ We're excited to announce a concert at the Arnold Arboretum, Boston on November 
 
 [Check it out on the Arboretum website!](http://my.arboretum.harvard.edu/info.aspx?EventID=1)
 
-<blockquote></blockquote>
-
-<blockquote>
-  
-> 
 > ### Ensemble Evolution: Sounds from the Treetops
 > 
-> 
-  
-  
-> 
-> **1 Session: Saturday, November 9, 8:00pm**
-  **Location: Hunnewell Building**
-> 
-> 
-  
-  
+> **1 Session: Saturday, November 9, 8:00pm**  **Location: Hunnewell Building**
 > 
 > Ensemble Evolution presents a multi-media performance of original works inspired by the iconic Treehotel in Harads, Northern Sweden. The unique compositional style and diverse interests of each performer can be heard from piece to piece, while the set is unified by the group’s shared passion for percussion, sound and musical exploration. Each of the six pieces in Sounds from the Treetops relates to one of the tree house guest rooms and will be accompanied by video footage of these unusual abodes and the surrounding landscape, to transport the audience from the performance space to the Swedish outdoors. In addition, Ensemble Evolution will perform a new piece influenced by their experience in the Arboretum landscape. Note: This percussion performance will vary from soft and subtle to very loud. We will provide earplugs for those who wish to use them.
 > 
-> 
-  
-  
-> 
 > **Fee $20 member, $25 nonmember, $10 student**
 > 
-> 
-  
-  
-> 
 > Ensemble Evolution will be Artists-in-Residence at the Arnold Arboretum in November, performing and teaching composition and improvisation in response to nature.
-> 
-> 
-</blockquote>

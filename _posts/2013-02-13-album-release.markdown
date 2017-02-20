@@ -17,6 +17,4 @@ The album will soon be available on iTunes and Spotify, as well as for physical 
 
 Get excited and go on tour with EE:
 
-
- 
-   [youtube https://www.youtube.com/watch?v=7HNh8aMGJVc]
+{% youtube https://www.youtube.com/watch?v=7HNh8aMGJVc %}

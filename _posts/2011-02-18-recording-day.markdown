@@ -9,38 +9,15 @@ title: Recording Day!
 wordpress_id: 142
 ---
 
+{% slider %}
+![](https://ensembleevolution.files.wordpress.com/2011/02/c30ef-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2011/02/d96f4-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2011/02/9d909-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2011/02/0e5f0-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2011/02/a2e03-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2011/02/4d578-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2011/02/0702e-img.jpg)
+![](https://ensembleevolution.files.wordpress.com/2011/02/f39d7-img.jpg)
+{% endslider %}
 
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2011/02/c30ef-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2011/02/d96f4-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2011/02/9d909-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2011/02/0e5f0-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2011/02/a2e03-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2011/02/4d578-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2011/02/0702e-img.jpg)
-  
-
-  
-   ![](https://ensembleevolution.files.wordpress.com/2011/02/f39d7-img.jpg)
-  
-
-
+A chilly February day of recording in the studio at Piteå Musikhögskolan. Thanks to our volunteer student sound recordists and to Anders Åstrand and Evaristo Aguilar for jumping in to record some drums!

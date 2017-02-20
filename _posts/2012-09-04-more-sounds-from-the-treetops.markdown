@@ -11,14 +11,8 @@ wordpress_id: 36
 
 Check out more videos in our treetop series. Album due out in February!
 
+{% youtube QlK3Hv4xCjU %}
+ 
+{% youtube 3XIPX3jr8MU %}
 
- 
-   [youtube https://www.youtube.com/watch?v=QlK3Hv4xCjU]
- 
-
- 
-   [youtube https://www.youtube.com/watch?v=3XIPX3jr8MU]
- 
-
- 
-   [youtube https://www.youtube.com/watch?v=RKBu7aF8rDk]
+{% youtube RKBu7aF8rDk %}

@@ -17,9 +17,6 @@ tags:
 ---
 
 ![](https://ensembleevolution.files.wordpress.com/2013/03/d51fd-treesaunawide.jpg)
-  
-
-
 
 This week's featured track from "Sounds from the Treetops" is "Planks, for the Tree Sauna", one of my compositions!
 
@@ -27,16 +24,9 @@ This track was inspired by the plank-like stairs that wind around the outside of
 
 The structure of the composition represents a walk through the forests of Lapland and the discovery of this incredible building. We slowly work our way through different combinations of pulsating rhythms, discovering different aspects of the natural environment. Each section of the piece is marked by the start of a different tone from the clarinet.
 
+[http://bandcamp.com/EmbeddedPlayer/v=2/track=2752831222/size=venti/bgcol=FFFFFF/linkcol=4285BB/](http://bandcamp.com/EmbeddedPlayer/v=2/track=2752831222/size=venti/bgcol=FFFFFF/linkcol=4285BB/)
 
- 
-   [http://bandcamp.com/EmbeddedPlayer/v=2/track=2752831222/size=venti/bgcol=FFFFFF/linkcol=4285BB/](http://bandcamp.com/EmbeddedPlayer/v=2/track=2752831222/size=venti/bgcol=FFFFFF/linkcol=4285BB/)
- 
-
-  
-      ![](https://ensembleevolution.files.wordpress.com/2013/03/765d5-performingplanksatthetreesauna.jpg)
-  
-
-
+![](https://ensembleevolution.files.wordpress.com/2013/03/765d5-performingplanksatthetreesauna.jpg)
 
 For the recording session I was able to emphasise the environmental aspects of the piece with a collage of field recordings at the beginning and end. These recordings were made on the day that we premiered "Sounds from the Treetops" at Treehotel as I walked up the hill from the Pensionat to discover these incredible tree houses.
 

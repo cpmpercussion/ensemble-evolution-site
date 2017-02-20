@@ -9,4 +9,6 @@ title: Creative Music Making at Framnäs
 wordpress_id: 71
 ---
 
-[caption id="" align="alignnone" width="1824.0"]![](https://ensembleevolution.files.wordpress.com/2012/02/01866-img.jpg) This Sunday, Bill and Ruth Cahn hung out with the students at Framnäs Folkhögskola's "Percussion House" for some creative music making, snare drumming and palt! Here's one of the recordings! Featuring: Bill, Ruth, Micro, Lisa, Henrik, Astrid, Charles, and Maria.[/caption]
+![](https://ensembleevolution.files.wordpress.com/2012/02/01866-img.jpg) 
+
+This Sunday, Bill and Ruth Cahn hung out with the students at Framnäs Folkhögskola's "Percussion House" for some creative music making, snare drumming and palt! Here's one of the recordings! Featuring: Bill, Ruth, Micro, Lisa, Henrik, Astrid, Charles, and Maria.

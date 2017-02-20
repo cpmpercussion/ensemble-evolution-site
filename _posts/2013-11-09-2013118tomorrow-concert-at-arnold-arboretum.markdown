@@ -10,9 +10,6 @@ wordpress_id: 205
 ---
 
 ![](https://ensembleevolution.files.wordpress.com/2013/11/cba30-sftt-small.jpg)
-  
-
-
 
 We're excited to perform our Sounds from the Treetops suite at the Arnold Arboretum's Hunnewell Building tomorrow evening at 8pm! [More info and tickets available here](https://my.arboretum.harvard.edu/Info.aspx?DayPlanner=1250&DayPlannerDate=11/9/2013)!  
   

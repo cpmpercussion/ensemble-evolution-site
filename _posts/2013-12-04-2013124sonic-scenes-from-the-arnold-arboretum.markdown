@@ -13,12 +13,8 @@ Creating a new piece for [Adam](http://www.adamdetour.com/)'s photos was a rewar
 
 It was equally exciting to workshop the piece before a live audience during our open rehearsal. A couple in the audience emailed us an amazing review just after the session, which gave us a lot of great energy for the performance!
 
-<blockquote>“We were just blown away by this afternoon’s session. It was an honor and joy to be able to witness creativity in the making. Because of your generosity and warmth, we were able to see and hear your piece take shape. When we arrived at 3PM, we had no idea what to expect. We knew the Arboretum, we knew a bit about percussion instruments, and knew nothing about you three. An hour later, we were transformed. Your sense of what the Arboretum conveys brilliantly arose from your talent, your collaboration, your art. Being present for that journey is an experience we will not soon forget. We are still talking about it.” - Eleanor and Fred Sabini
-> 
-> </blockquote>
+> “We were just blown away by this afternoon’s session. It was an honor and joy to be able to witness creativity in the making. Because of your generosity and warmth, we were able to see and hear your piece take shape. When we arrived at 3PM, we had no idea what to expect. We knew the Arboretum, we knew a bit about percussion instruments, and knew nothing about you three. An hour later, we were transformed. Your sense of what the Arboretum conveys brilliantly arose from your talent, your collaboration, your art. Being present for that journey is an experience we will not soon forget. We are still talking about it.” - Eleanor and Fred Sabini
 
 We hope that the video will be just as enjoyable. Some favorite moments occur around minute mark 1:20, 4:50 and 7:15 (all the way to the end). Take a look!
 
-
- 
-   [youtube https://www.youtube.com/watch?v=60zn_yFkknA&w;=640&h;=360]
+{% youtube 60zn_yFkknA %}

@@ -16,9 +16,6 @@ tags:
 ---
 
 ![](https://ensembleevolution.files.wordpress.com/2013/03/4a1dd-the_cabin-interior.jpg)
-  
-
-
 
 This week's featured track is "The Cabin" composed by Jacob Remington. This treehouse is suspended out from a hillside with a long walkway leading to it and gave a spectacular view of the landscape around tree hotel. To Jake, The Cabin suggested a story of loneliness and isolation which he represents with this piece. 
 
@@ -26,6 +23,4 @@ In "The Cabin", our guest artists soprano Anna K. Larson and clarinetist Angela 
 
 Check out the track for free and if you like it, show your support by buying it for just $1!
 
-
- 
-   [http://bandcamp.com/EmbeddedPlayer/v=2/track=1046542187/size=venti/bgcol=FFFFFF/linkcol=4285BB/](http://bandcamp.com/EmbeddedPlayer/v=2/track=1046542187/size=venti/bgcol=FFFFFF/linkcol=4285BB/)
+[http://bandcamp.com/EmbeddedPlayer/v=2/track=1046542187/size=venti/bgcol=FFFFFF/linkcol=4285BB/](http://bandcamp.com/EmbeddedPlayer/v=2/track=1046542187/size=venti/bgcol=FFFFFF/linkcol=4285BB/)

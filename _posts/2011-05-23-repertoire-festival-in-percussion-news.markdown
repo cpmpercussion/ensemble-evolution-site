@@ -9,4 +9,6 @@ title: Repertoire Festival in Percussion News
 wordpress_id: 95
 ---
 
-[caption id="" align="alignnone" width="140.0"]![There's a little write up of our recent Piteå Percussion Repertoire Festival in PAS's June issue of Percussion News. We're working on our 2012 festival now!](https://ensembleevolution.files.wordpress.com/2011/05/42b5d-img.jpg) There's a little write up of our recent Piteå Percussion Repertoire Festival in PAS's June issue of Percussion News. We're working on our 2012 festival now![/caption]
+![There's a little write up of our recent Piteå Percussion Repertoire Festival in PAS's June issue of Percussion News. We're working on our 2012 festival now!](https://ensembleevolution.files.wordpress.com/2011/05/42b5d-img.jpg) 
+
+There's a little write up of our recent Piteå Percussion Repertoire Festival in PAS's June issue of Percussion News. We're working on our 2012 festival now!

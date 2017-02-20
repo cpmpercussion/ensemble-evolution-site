@@ -11,6 +11,4 @@ wordpress_id: 70
 
 Our Solstormen set consists of three pieces that we have each contributed. Here's a taste of Charles' piece _Taxi to Kallax_!
 
-
- 
-   [youtube https://www.youtube.com/watch?v=I_5er1R7B4s]
+{% youtube I_5er1R7B4s %}
