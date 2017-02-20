@@ -9,6 +9,7 @@ layout: default
 		<p>An international ensemble exploring the future of percussion through composition, education and technology.</p>
 	</header>
 	<span class="image featured"><img src="{{ site.baseurl }}/assets/images/ee-stage.jpg" alt="" /></span>
+	
 </section>
 
 <section class="box special features">

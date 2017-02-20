@@ -161,7 +161,7 @@
 /* Section/Article */
 
 	section.special, article.special {
-		text-align: center;
+		/*text-align: center;*/
 	}
 
 	header p {
@@ -485,7 +485,12 @@
 				}
 
 		.box.special {
-			text-align: center;
+			/*text-align: center;*/
+		}
+
+		.box img{
+			max-height: 100%;
+			max-width: 100%;
 		}
 
 		.box .image.featured {
